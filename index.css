@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Jost:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Rubik+Glitch+Pop&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* starter */
+.container-fluid{
+    padding: 10px;
+    font-family: "poppins", sans-serif;
+    position: ;
+}
+
+.align-center{
+    display: flex;
+    justify-content: center;
+}
+
+.flex{
+display: flex;
+justify-content: ce;
+}
+
+/* nav-bar */
+.container img-logo{
+    display: flex;
+    justify-content:;
+    font-family: "poppins", sans-serif;
+
+}
+
+.li, .nav-link{
+    display:inline ;
+    padding: 40px;
+}
+
+.search-bar{
+    position: relative;
+    margin-right:;
+}
+.search{
+    height: 35px;
+    display: flex;
+    margin-right: 0px;
+    text-align: center;
+    border: 0px;
+    background-color:rgb(238, 238, 238);
+    border-radius: 15px;
+}
+
+.container .btn{
+    justify-content: end;
+}
+
+/* hero-section */
+
+.hero-section{
+    gap: 50px;
+}
+
+.container .hero-left{
+    max-width: 40vw;
+    text-align: center;
+}
+
+
+.text-margin{
+    margin-top: 90px;
+    font-family: "poppins", sans-serif;
+}
+
+/* category-ssection */
+
+.cat-text{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cat-pics{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    font-family: "poppins", sans-serif;
+    
+}
+
+.cat-pics img{
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Featured-product */
+
+.container-fluid-m{
+    background-color: #dbdbdb;
+    margin-top: 90px;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 700px;
+}
+
+.container-fluid-m .card{
+    display: inline-block;
+    position: relative;
+    margin: 0px 60px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 20px 10px 20px 0px;
+}
+
+/* footer */
+
+.headings{
+    justify-content: space-around;
+
+}
+
+.content ul{
+   justify-content: space-evenly;
+}
+
+.content ul li{
+    list-style: none;
+    padding: 10px;
+}
+
+.heading-1{
+    margin-left: 40px;
+}
+
+.heading-2{
+    margin-left: 40px;
+}
+
+.heading-3{
+    margin-left: 40px;
+}
